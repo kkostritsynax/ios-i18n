@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'APACHE', :file => 'LICENSE' }
   s.author       = 'Pavel Ivashkov'
 
-  s.ios.deployment_target = '3.2'
+  s.ios.deployment_target = '6.0'
   s.osx.deployment_target = '10.6'
   s.watchos.deployment_target = '2.0'
 
